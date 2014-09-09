@@ -16,5 +16,5 @@ Several good features for bmml format
 
 ### Reference
 * Vincent's blog: <http://nvie.com/posts/a-successful-git-branching-model/>
-* Larry's blog: <[http://github.com/larrycai/gitflow/blob/develop/contrib/gitflow.bmml>
+* Larry's blog: <http://github.com/larrycai/gitflow/blob/develop/contrib/gitflow.bmml>
 * @mockupstogo.net <https://mockupstogo.mybalsamiq.com/projects/diagrams/Git%20Workflow>
